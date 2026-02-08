@@ -8,6 +8,7 @@ Web del **Servei de Bioinformàtica de l'IRIS-CC**.
 - `index.md`: portada institucional del servei.
 - `serveis/`: cartera de serveis.
 - `docs/`: documentació i guies.
+  - `docs/tutorials-omiques/`: subsecció de tutorials d'òmiques.
 - `tools/`: recursos i eines tècniques.
 - `assets/`: fitxers estàtics (imatges, descarregables, etc.).
 

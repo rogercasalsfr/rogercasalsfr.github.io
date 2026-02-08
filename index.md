@@ -11,6 +11,7 @@ Som un grup especialitzat en bioinformàtica dins de l'**Institut de Recerca i I
 
 - [Serveis](./serveis/) — cartera de serveis del grup de bioinformàtica.
 - [Documentació](./docs/) — guies pràctiques i recursos de treball.
+- [Tutorials d'Òmiques](./docs/tutorials-omiques/) — materials formatius i exemples aplicats.
 - [Recursos](./tools/) — espai per publicar eines i pipelines.
 
 ## Missió
