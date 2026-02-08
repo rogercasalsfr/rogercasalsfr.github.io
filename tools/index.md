@@ -1,18 +1,16 @@
 ---
 layout: default
-title: Tools
+title: Recursos i eines
 ---
 
-# Tools
+# Recursos i eines
 
-Use this section to list the bioinformatics tools you want to publish.
+Aquest apartat recull eines, pipelines i recursos tècnics del Servei de Bioinformàtica.
 
-## Suggested template for each tool
+## Fitxa recomanada per recurs
 
-- **Name**
-- **Purpose**
-- **Input / Output**
-- **Repository or URL**
-- **Maintainer**
-
-> Tip: create one Markdown file per tool in this folder when you start adding real content.
+- **Nom de l'eina o pipeline**
+- **Objectiu**
+- **Tipus de dades d'entrada/sortida**
+- **Enllaç a repositori o documentació**
+- **Persona o equip de contacte**

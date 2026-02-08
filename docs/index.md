@@ -1,15 +1,20 @@
 ---
 layout: default
-title: Documentation
+title: Documentació
 ---
 
-# Documentation
+# Documentació
 
-This section can host practical documentation for your project.
+En aquest espai publicarem guies i materials de suport per facilitar el treball amb el Servei de Bioinformàtica.
 
-## Suggested topics
+## Continguts previstos
 
-- Installation and environment setup
-- Execution examples
-- Data format conventions
-- Troubleshooting notes
+- Guia d'accés a infraestructura i recursos computacionals.
+- Bones pràctiques per a la preparació i lliurament de dades.
+- Exemples de fluxos d'anàlisi i criteris de qualitat.
+- FAQ i resolució d'incidències freqüents.
+
+
+## Subseccions
+
+- [Tutorials d'òmiques](./tutorials-omiques/) — guies pas a pas per a anàlisi de dades òmiques.

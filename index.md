@@ -1,17 +1,19 @@
 ---
 layout: default
-title: Home
+title: Servei de Bioinformàtica IRIS-CC
 ---
 
-# Bioinformatics tools
+# Servei de Bioinformàtica · IRIS-CC
 
-Welcome to the GitHub Pages site for **IRIS-CC bioinformatics resources**.
+Som un grup especialitzat en bioinformàtica dins de l'**Institut de Recerca i Innovació en Ciències de la Vida i de la Salut a la Catalunya Central (IRIS-CC)**. Donem suport científic i tècnic per transformar dades biomèdiques en coneixement útil, amb una mirada aplicada, col·laborativa i orientada a l'impacte clínic i de recerca.
 
-## Site map
+## Què hi trobaràs en aquest espai
 
-- [Tools](./tools/) — quick access to available tools and links.
-- [Documentation](./docs/) — setup notes, usage guides, and references.
+- [Serveis](./serveis/) — cartera de serveis del grup de bioinformàtica.
+- [Documentació](./docs/) — guies pràctiques i recursos de treball.
+- [Tutorials d'Òmiques](./docs/tutorials-omiques/) — materials formatius i exemples aplicats.
+- [Recursos](./tools/) — espai per publicar eines i pipelines.
 
-## About this site
+## Missió
 
-This is a lightweight Jekyll site built from a simple folder structure to keep content easy to find and maintain.
+Acompanyar els equips de recerca de l'IRIS-CC en l'anàlisi, la integració i la interpretació de dades òmiques i estructurals, promovent bones pràctiques, qualitat metodològica i col·laboració interdisciplinària.

@@ -1,18 +1,18 @@
 # rogercasalsfr.github.io
 
-Simple GitHub Pages structure for **Bioinformatics tools**.
+Web del **Servei de Bioinformàtica de l'IRIS-CC**.
 
-## Current structure
+## Estructura actual
 
-- `_config.yaml`: Jekyll configuration.
-- `index.md`: home page with site navigation.
-- `tools/`: section for tool pages.
-- `docs/`: section for documentation pages.
-- `assets/`: static files (images, downloads, etc.).
+- `_config.yaml`: configuració Jekyll.
+- `index.md`: portada institucional del servei.
+- `serveis/`: cartera de serveis.
+- `docs/`: documentació i guies.
+  - `docs/tutorials-omiques/`: subsecció de tutorials d'òmiques.
+- `tools/`: recursos i eines tècniques.
+- `assets/`: fitxers estàtics (imatges, descarregables, etc.).
 
-## Run locally (optional)
-
-If you use Jekyll locally:
+## Execució local (opcional)
 
 ```bash
 bundle exec jekyll serve
