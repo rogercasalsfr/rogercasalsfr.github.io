@@ -7,6 +7,11 @@ title: Recursos i eines
 
 Aquest apartat recull eines, pipelines i recursos tècnics del Servei de Bioinformàtica.
 
+## Enllaços destacats
+
+- [Portal HPC UVic](https://rogercasalsfr.github.io/hpcuvic/)
+- [Descàrregues de scripts](../assets/downloads/)
+
 ## Fitxa recomanada per recurs
 
 - **Nom de l'eina o pipeline**

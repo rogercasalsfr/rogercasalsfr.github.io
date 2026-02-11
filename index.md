@@ -12,8 +12,11 @@ Som un grup especialitzat en bioinformàtica dins de l'**Institut de Recerca i I
 - [Serveis](./serveis/) — cartera de serveis del grup de bioinformàtica.
 - [Documentació](./docs/) — guies pràctiques i recursos de treball.
 - [Tutorials d'Òmiques](./docs/tutorials-omiques/) — materials formatius i exemples aplicats.
-- [Recursos](./tools/) — espai per publicar eines i pipelines.
+- [Recursos](./tools/) — eines, clúster i descàrregues.
+- [HPC UVic](https://rogercasalsfr.github.io/hpcuvic/) — accés al portal HPC.
 
 ## Missió
 
-Acompanyar els equips de recerca de l'IRIS-CC en l'anàlisi, la integració i la interpretació de dades òmiques i estructurals, promovent bones pràctiques, qualitat metodològica i col·laboració interdisciplinària.
+Acompanyem els equips de recerca de l'IRIS-CC i altres instituts i entitats en l'anàlisi, la integració i la interpretació de dades òmiques i estructurals, promovent bones pràctiques, qualitat metodològica i col·laboració interdisciplinària.
+
+Actualment, per exemple, donem suport a l'anàlisi multi-òmiques del projecte **BCN03** a **IrsiCaixa**.

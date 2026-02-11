@@ -1,3 +1,11 @@
 # Assets
 
-Store static resources here (images, downloadable files, etc.).
+Recursos estàtics del web:
+
+- imatges,
+- fitxers descarregables,
+- scripts i plantilles.
+
+## Descàrregues
+
+- [Scripts i templates](./downloads/)
