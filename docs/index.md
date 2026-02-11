@@ -5,61 +5,20 @@ title: Documentació
 
 # Documentació
 
-En aquest espai publiquem guies, metodologies i recursos tècnics del Servei de Bioinformàtica.
+Hem reorganitzat la documentació per àrees perquè sigui fàcil navegar-hi amb clics:
 
-## Webpage
-
-- [Tools developed for the IRIS-CC framework](../tools/)
+- [R language](./r/)
+- [Python language](./python/)
+- [Tutorials d'òmiques](./tutorials-omiques/)
+- [Descàrregues de scripts](../assets/downloads/)
 - [Portal HPC UVic](https://rogercasalsfr.github.io/hpcuvic/)
 
-## R language
+## Com està organitzat
 
-### Single-cell RNA-seq
+Cada secció té:
 
-- Pre-processing (Seurat)
-- Downstream analysis
-- Trajectory inference analysis (pseudotime)
-  - Monocle3
-  - Dynverse
-- Enrichment analysis (enrichGO, hallmark pathways)
+1. Una pàgina d'índex amb enllaços a subseccions.
+2. Una carpeta per subsecció.
+3. Un notebook `.ipynb` plantilla on s'explica què es fa i com començar.
 
-### Single-cell ATAC-seq
-
-- Pre-processing (Seurat, Signac)
-- Downstream analysis (Signac)
-
-## Python language
-
-- Scenic+ (GRNs build)
-
-### Integration of single cell omics (RNA and ATAC)
-
-- scRNA-seq preprocessing using Scanpy
-- scATAC-seq preprocessing using pycisTopic
-- Motif enrichment analysis using pycistarget
-- Inferring enhancer-driven Gene Regulatory Networks (eGRNs) using SCENIC+
-
-### Downstream analysis
-
-- Visualització, interpretació i comparativa de resultats multi-òmiques.
-
-## Machine learning models
-
-- Linear Regression
-- Random Forest
-- Support Vector Machine
-
-## Deep learning models
-
-- Neural Networks
-- Variational Autoencoders
-
-## Descàrregues
-
-- [Template Scanpy (Python)](../assets/downloads/scripts/template_scanpy.py)
-- [Template Seurat (R)](../assets/downloads/scripts/template_seurat.R)
-- [Template job de clúster (Bash)](../assets/downloads/scripts/template_hpc_job.sh)
-
-## Subseccions
-
-- [Tutorials d'òmiques](./tutorials-omiques/) — guies pas a pas per a anàlisi de dades òmiques.
+Així, és fàcil créixer la web mantenint ordre i coherència institucional.
